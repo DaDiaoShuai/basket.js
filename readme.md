@@ -76,3 +76,9 @@ to generate a new release, otherwise just running `grunt test` will run the unit
 ## License
 
 MIT © Basket.js team
+
+## Pomodoro Web Demo
+
+A simple web Pomodoro timer is available at `pomodoro-web/index.html`.
+
+Open it directly in your browser, or serve the repository root with any static server and visit `/pomodoro-web/`.
